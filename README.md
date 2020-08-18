@@ -67,7 +67,7 @@ Deisy de los Angeles Gúzman Meza
 <br> •Requieren actualización personalizada.
 <br> •Suelen tener requerimientos especiales de software y librerías.   </td>
     <td style="width: 33%;"> Microsoft Teams https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/download-app</td>
-    <td style="width: 33%;"> Aplicación para crear graficos en 3D(Parecido a Paint3D)</td>
+    <td style="width: 33%;"> Aplicación para crear graficos en 3D(Parecido a Paint3D) donde puedas crear tu figura hasta animarla.</td>
   </tr>
  <tr>
     <td style="width: 33%;"> MOVIL </td>

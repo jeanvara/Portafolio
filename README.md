@@ -47,6 +47,7 @@ Deisy de los Angeles Gúzman Meza
   <br> •	Espacio de almacenamiento: muchos servicios dan un espacio limitado para tus archivos.
  </td>
     <td style="width: 33%;"> blackboard buap https://buap.blackboard.com/</td>
+    <td style="width: 33%;"> Aplicación de una tienda virtual de un almacen de productos para el cuidado personal y del hogar, durante esta contigencia.   </td>
   </tr>
  <tr>
     <td style="width: 33%;"> MULTIMEDIA </td>
@@ -74,8 +75,8 @@ Deisy de los Angeles Gúzman Meza
     <td style="width: 33%;">Una aplicación móvil es un programa que usted puede descargar y al que puede acceder directamente desde su teléfono o desde algún otro aparato móvil.Son faciles  y simples</td>
   <td style="width: 33%;"> No obstante el entorno móvil nos impone un cambio drástico en el modo en que se diseña debido a las restricciones que nos impone el  hardware.Cuando diseñamos una aplicación debemos pensar que si nuestra aplicación tiene éxito se instalará en una amplia gama de dispositivos móviles, algunos de alta gama  y otros no tanto.  </td>
   <td style="width: 33%;"> App Buap https://play.google.com/store/apps/details?id=buap.appbuap </td>
-  </tr>
- 
+  <td style="width: 33%;"> Aplicación de agenda para pequeños estudiantes que organize sus horarios de clase y tareas con la ayuda de dibujos y voz.  </td>
+ </tr>
 </table>
 
 *DIFERENCIAS*
@@ -117,5 +118,5 @@ Herramientas de Conocimineto: Jupyter NoteBook(Bueno), Bootstrap(Regular), Vue(R
 Lenguajes: php(Regular), java(Bueno) , javascript(Regular), c(Bueno), c++(Regular), python(Bueno), ensamblador(Regular), swift(Regular)
 
 DEISY: 
-Herramientas de Conocimiento:
-Lenguajes: dart (Bueno), java(Bueno)
+Herramientas de Conocimiento: Visual Studio Code (Bueno), Sublime Text(Bueno), CakePhp(Regular), Android Studio(Regular), NetBeans(Bueno), Cisco Packet Tracer(Bueno),                                          JCreator(Bueno), ISE(Regular) 
+Lenguajes: dart (Bueno), java(Bueno), javascript(Regular), c(Bueno), c++(Regukar), Swift(Regular), php(Regular)

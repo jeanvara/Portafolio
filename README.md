@@ -14,6 +14,7 @@ Deisy de los Angeles Gúzman Meza
   * Analisis de Datos
   * Administracion, modelo y seguridad de redes inalambricas
   * Analisis y Diseño de Algoritmos es bastante de mi interés pero desafortunadamente no me he concentrado tanto en esta Área.
+
 <br> Proyectos realizados:
   * Aplicacion de escritorio de un Punto de Venta de una Tienda de Abarrotes
   * Aplicacion de escritorio de un Punto de Venta de una Floreria
@@ -37,8 +38,7 @@ Deisy de los Angeles Gúzman Meza
  <tr>
     <td style="width: 33%;"> WEB </td>
     <td  style="width: 33%;">Su principal característica 
-     es que 
-     se adapta a cualquier dispositivo y se pueden abrir prácticamente desde todos los navegadores, 
+     es que se adapta a cualquier dispositivo y se pueden abrir prácticamente desde todos los navegadores, 
      independientemente de su S.O </td>
     <td style="width: 33%;"> •	Necesitas internet: principal problema, depender de una conexión a internet. 
      <br> •	Tus datos quedan expuestos fácilmente.
@@ -56,6 +56,7 @@ Deisy de los Angeles Gúzman Meza
 <br> •	Como todo equipo que funciona con energía eléctrica, requiere de cuidados especiales, ya que algunos de ellos son frágiles.
  </td>
     <td style="width: 33%;"> Duolingo https://es.duolingo.com/</td>
+    <td style="width: 33%;"> Aplicación para niños de edad entre los 1-3 años, donde enseñar Colores, Animales, Vocales, Números, Abecedario, Formas Geometricas, en el cual este ilustrado con audios, imagenes, música, videos. </td>
   </tr>
  <tr>
     <td style="width: 33%;"> ESCRITORIO </td>
@@ -66,12 +67,13 @@ Deisy de los Angeles Gúzman Meza
 <br> •Requieren actualización personalizada.
 <br> •Suelen tener requerimientos especiales de software y librerías.   </td>
     <td style="width: 33%;"> Microsoft Teams https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/download-app</td>
+    <td style="width: 33%;"> Aplicación para crear graficos en 3D(Parecido a Paint3D)</td>
   </tr>
  <tr>
     <td style="width: 33%;"> MOVIL </td>
     <td style="width: 33%;">Una aplicación móvil es un programa que usted puede descargar y al que puede acceder directamente desde su teléfono o desde algún otro aparato móvil.Son faciles  y simples</td>
   <td style="width: 33%;"> No obstante el entorno móvil nos impone un cambio drástico en el modo en que se diseña debido a las restricciones que nos impone el  hardware.Cuando diseñamos una aplicación debemos pensar que si nuestra aplicación tiene éxito se instalará en una amplia gama de dispositivos móviles, algunos de alta gama  y otros no tanto.  </td>
-  <td style="width: 33%;"> App Buap https://play.google.com/store/apps/details?id=buap.appbuap </td>*
+  <td style="width: 33%;"> App Buap https://play.google.com/store/apps/details?id=buap.appbuap </td>
   </tr>
  
 </table>
@@ -107,9 +109,13 @@ Deisy de los Angeles Gúzman Meza
  
 </table>
     
+JEANETTE:
 
-Herramientas de conocimineto: Jupyter NoteBook, Bootstrap, Vue, Sublime Text, JCreator, NetBeans(Bueno), 
-                  Cisco Packet Tracer, Spyder, Visual Studio, Laravel, Firebase, JetBrains PhpStorm, xCode , AndroidStudio(Regular), CakePhp
+Herramientas de Conocimineto: Jupyter NoteBook(Bueno), Bootstrap(Regular), Vue(Regular), Sublime Text(Bueno), JCreator(Regular), NetBeans(Regular), 
+                  Cisco Packet Tracer(Bueno), Spyder(Bueno), Visual Studio Code(Regular), Laravel(Regular), Firebase(Regular), JetBrains PhpStorm(Bueno), xCode(Regular)
 
-Lenguajes: php, java(Bueno) , javascript, c, c++, python, ensamblador, swift , dart (Bueno), 
+Lenguajes: php(Regular), java(Bueno) , javascript(Regular), c(Bueno), c++(Regular), python(Bueno), ensamblador(Regular), swift(Regular)
 
+DEISY: 
+Herramientas de Conocimiento:
+Lenguajes: dart (Bueno), java(Bueno)

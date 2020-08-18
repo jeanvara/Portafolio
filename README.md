@@ -14,7 +14,7 @@ Deisy de los Angeles Gúzman Meza
   * Analisis de Datos
   * Administracion, modelo y seguridad de redes inalambricas
   * Analisis y Diseño de Algoritmos es bastante de mi interés pero desafortunadamente no me he concentrado tanto en esta Área.
-Proyectos realizados:
+<br> Proyectos realizados:
   * Aplicacion de escritorio de un Punto de Venta de una Tienda de Abarrotes
   * Aplicacion de escritorio de un Punto de Venta de una Floreria
   * Aplicación web de un Consultorio Dental 

@@ -119,4 +119,4 @@ Lenguajes: php(Regular), java(Bueno) , javascript(Regular), c(Bueno), c++(Regula
 
 DEISY: 
 Herramientas de Conocimiento: Visual Studio Code (Bueno), Sublime Text(Bueno), CakePhp(Regular), Android Studio(Regular), NetBeans(Bueno), Cisco Packet Tracer(Bueno),                                          JCreator(Bueno), ISE(Regular) 
-Lenguajes: dart (Bueno), java(Bueno), javascript(Regular), c(Bueno), c++(Regukar), Swift(Regular), php(Regular)
+<br> Lenguajes: dart (Bueno), java(Bueno), javascript(Regular), c(Bueno), c++(Regukar), Swift(Regular), php(Regular)
